@@ -19,7 +19,7 @@
  * 59 Temple Place - Suite 330, Boston, MA  02111-1307, USA
  *
  ****************************************************************
- * $Id$ FAU
+ * $Id: mark.h,v 1.1.1.1 1993/06/16 23:51:13 jnweiger Exp $ FAU
  */
 
 struct markdata

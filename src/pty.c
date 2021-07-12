@@ -34,8 +34,10 @@
 #endif
 
 /* for solaris 2.1, Unixware (SVR4.2) and possibly others */
+#ifndef __APPLE__
 #ifdef HAVE_SVR4_PTYS
 # include <sys/stropts.h>
+#endif
 #endif
 
 #if defined(sun) && defined(LOCKPTY) && !defined(TIOCEXCL)

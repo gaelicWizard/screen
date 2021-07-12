@@ -22,7 +22,7 @@
  * 59 Temple Place - Suite 330, Boston, MA  02111-1307, USA
  *
  ****************************************************************
- * $Id$ FAU
+ * $Id: braille.h,v 1.1 1995/09/06 15:51:18 jnweiger Exp jnweiger $ FAU
  */
 
 #ifdef HAVE_BRAILLE
